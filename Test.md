@@ -3,9 +3,6 @@ layout: page
 title: References
 ---
 
-In this page I place all references added to Project Casper
-
-## References:
 - Cisco Systems, Inc, Next Generation Cryptography, company report,
 Cisco Systems, Inc, viewed 13 April 2019,
 <https://tools.cisco.com/security/center/resources/next_generation_cryptography>.
