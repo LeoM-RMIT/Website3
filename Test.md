@@ -3,7 +3,7 @@ layout: page
 title: Tests
 ---
 
-Here is an over view
+Here is an overview of my test (NERIS Analytics, 2019) results and how they can impact on teamwork.
 
 My test results are:
 -	MBTI: ESFJ
