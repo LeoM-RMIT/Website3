@@ -59,3 +59,76 @@ They fall under the same corporate standards and regulations for: (Kleinman Z. 2
 -	Record keeping
 -	Corporate agendas
 -	Internal upkeep without security vetting.
+
+Project Casper’s main focus is to provide complete privacy for its clients by
+introducing high-end level of end-to-end communications. This is presented to
+the client by tailoring a messaging application for all platforms. Be Windows,
+Mac, iPhone and Android, Project Casper will work in conjunction with its
+clients’ team members to meet their communication needs. Outsiders will not be
+able to access the clients’ metadata through direct hardware access. Project
+Casper will provide recommended hardware that will undergo a security vetting
+process to ensure no tampering and spying hardware or software has been placed
+in any of the following:
+-	Servers
+-	Firewall Hardware
+-	Routers
+-	Switches
+-	Laptops/Desktops
+-	Mobile Phones
+-	Tablets.
+
+All equipment will be kept in a site of the client’s choice which means metadata
+will only be accessible by the client. This will be possible through the use of
+the current commercial communications infrastructure that incorporates
+high-speed wireless communication and current military and commercial
+satellite bearers.
+
+Training and maintenance of the application, software and hardware will be
+provided by experts from Project Casper under the clients’ supervision. This
+will provide the capability to locally upkeep the whole system.
+The application service will offer the following capabilities:
+-	1 on 1 messaging
+-	Group messaging up to 20 members
+-	Meeting Room (Video Conference and VoIP calls)
+-	Media Sharing (Documents, Image, Video and Files)
+
+In addition, end-to-end privacy will be through Advance Encryption Standard
+(AES-256), (Cisco Systems, Inc), providing military grade encryption throughout
+all the clients’ activities.
+
+## Skill Requirements
+The following will be a list of skills, hardware and software requirements to
+make Project Casper a reality.
+
+### Software, Hardware & Certifications
+For the contribution and developing of this application, Project Casper will
+require a team which will overlook every single aspect that contributes to the
+project’s cyber security and delivery:
+-	Open Source projects such as Signals current Open source project (Signal 2019)
+-	Encryption (Bernstein D. J. Lange T. & Schwabe P 2016)
+-	Router
+-	Switches
+-	Servers
+-	Laptops/Desktops
+-	Mobile Phones
+-	Tablets
+-	Communication Cabinets
+-	Network engineers
+-	Application and Software Developers
+-	Cyber Security Specialists.
+
+## Outcome
+Project Casper understands that creating an application or software doesn’t
+necessarily mean that a client’s data will be secure. If Project Casper was
+successful, there will be a reduction in data harvesting and breaches. By
+installing all equipment at a location of their choice, the client has control
+over its meta data and hardware. This will solve the current problem which lays
+in the privacy policies of current commercial providers.
+
+## Impact
+The importance of security within the interconnected world will be emphasised
+by Project Casper as it will deliver a greater level of security to private
+companies, government, and NGOs by giving them full control of the service.
+On the other hand, organisations utilising the Project’s services will have the
+capability to destroy and modify their data and equipment to cover any
+fraudulent activities, documentation or sensitive data.
